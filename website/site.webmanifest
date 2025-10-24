@@ -1,0 +1,20 @@
+{
+  "name": "Mohannad Emhemed - Cloud Infrastructure Engineer",
+  "short_name": "Mohannad Emhemed",
+  "description": "Cloud Infrastructure Engineer specializing in AWS, Multi-Cloud Architecture, and Network Engineering",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#FF9900",
+  "background_color": "#232F3E",
+  "display": "standalone"
+}

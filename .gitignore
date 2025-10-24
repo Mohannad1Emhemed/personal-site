@@ -1,0 +1,58 @@
+# Personal/Sensitive Files
+*.pdf
+*.docx
+*.zip
+
+# Personal Images
+Personal-IMG/
+
+# Certificates (private)
+Certificates/
+reports/
+
+# CV Files (private)
+cv1.md
+cv2.md
+CV-Updated-Content.md
+CV_HIGHLIGHTS.md
+CV_MANAGEMENT_GUIDE.md
+CV_Update_Summary.md
+FINAL_CV_RECOMMENDATION.md
+LinkedIn-Profile-Update.md
+MOHANNAD-EMHEMED--CV.*
+MohannadEmhemed*.pdf
+MohannadEmhemed*.docx
+MohannadEmhemed*_CV.*
+
+# Badges source (keep only website badges)
+Badges/
+
+# Logs
+logs/
+*.log
+
+# AWS/Amazon Q
+.amazonq/
+
+# Config files with sensitive data
+cloudfront-config.json
+cloudfront-update-config.json
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Terraform
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+*.tfvars
+.terraformrc
+terraform.rc
